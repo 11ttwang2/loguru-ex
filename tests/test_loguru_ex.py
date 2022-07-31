@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: UTF-8 -*-    
-# Author: 王涛涛/16327
+# Author: DoubleT.Wong
 # FileName: test_log_utils
 # DateTime: 7/30/2022 5:02 PM
 import os.path

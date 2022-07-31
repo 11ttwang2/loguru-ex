@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: UTF-8 -*-    
-# Author: 王涛涛/16327
+# Author: DoubleT.Wong
 # FileName: __init__.py
 # DateTime: 7/26/2022 7:32 PM
 import os.path
